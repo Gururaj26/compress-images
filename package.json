@@ -1,0 +1,12 @@
+{
+  "name": "compress-images",
+  "version": "1.0.0",
+  "description": "compress images in a command",
+  "main": "index.js",
+  "author": "Gururaj",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "compress-images": "^1.4.6"
+  }
+}
